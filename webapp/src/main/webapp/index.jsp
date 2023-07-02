@@ -9,7 +9,7 @@
     <br>
     <h1> this is my first modification <h1>
     <br>
-    <p> this is me aniruddha automated task poll scm </p>
+    <p> hello brother i am poll scm </p>
     <br>
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
